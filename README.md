@@ -1,4 +1,4 @@
-# pj
+# app
 
 ## Project setup
 ```
